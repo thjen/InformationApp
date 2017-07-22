@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">InformationApp</string>
+    <string name="info">Information card</string>
+    <string name="name">Input name</string>
+    <string name="email">Input email</string>
+    <string name="sdt">Input telephone number</string>
+    <string name="bt">Confirm</string>
+    <string name="tvName">Name</string>
+    <string name="tvEmail">Email</string>
+    <string name="tvSdt">Phone number</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bt">Xác nhận</string>
+    <string name="email">Nhập email</string>
+    <string name="app_name">InformationApp</string>
+    <string name="info">Thẻ thông tin</string>
+    <string name="name">Nhập tên</string>
+    <string name="sdt">Nhập số điện thoại</string>
+    <string name="tvName">Họ tên</string>
+    <string name="tvSdt">Sđt</string>
+    <string name="tvEmail">Email</string>
+</resources>

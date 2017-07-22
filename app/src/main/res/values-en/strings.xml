@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InformationApp</string>
+    <string name="bt">Confirm</string>
+    <string name="email">Input email</string>
+    <string name="info">Information card</string>
+    <string name="name">Input name</string>
+    <string name="sdt">Input telephone number</string>
+    <string name="tvEmail">Email</string>
+    <string name="tvName">Name</string>
+    <string name="tvSdt">Phone number</string>
+</resources>
